@@ -1,0 +1,6 @@
+# config.py
+
+ENABLE_TELEGRAM = False
+TELE_TOKEN = "TOKEN_BOT_TELEGRAM_ANDA"
+TELE_CHAT_ID = "CHAT_ID_ANDA"
+DB_NAME = "meow_defense.db"

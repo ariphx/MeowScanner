@@ -1,0 +1,14 @@
+# Folder hasil scan (Data sensitif)
+workspaces/
+
+# Python logs & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+
+# Tool wordlists (jika ada di dalam folder)
+wordlists/
+
+# Database lokal
+*.db
